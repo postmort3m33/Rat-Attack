@@ -1,0 +1,1 @@
+-- Van Teleport Script must be Disabled --

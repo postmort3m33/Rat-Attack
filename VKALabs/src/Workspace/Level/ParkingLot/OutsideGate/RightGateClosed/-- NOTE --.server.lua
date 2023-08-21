@@ -1,0 +1,1 @@
+-- Front gate script must be disabled
